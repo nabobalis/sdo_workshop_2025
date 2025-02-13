@@ -1,0 +1,9 @@
+aiapy
+reproject
+solarmach
+stixpy
+sunkit-image
+sunpy-soar
+sunpy[all]
+jupyterlab
+ipywidgets
